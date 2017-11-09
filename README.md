@@ -22,7 +22,7 @@ At first, I tended to take this course but after reviewing the syllabus, most of
 + Segmenting customers on spending in different categories/sectors.
 
 #### Project 4: Train a Smartcab to Drive 
-+ Reinforcement Learning: Implementing Q-learning algorithm.
++ Reinforcement Learning: Implementing Q-learning algorithm. (on-going)
 
 
 Note: One CNN project is required to classify dog breed. I will finish it later as it has the same concepts like some of CNN projects I have done in self-driving car program.
