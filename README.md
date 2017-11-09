@@ -5,7 +5,7 @@
 
 This [Machine Learning course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) includes supervised learning, unsupervised learning, and reinforcement learning projects. This was developed by Georgia Tech, Udacity, Google and Kaggle.
 
-    At first, I tended to take this course but after reviewing the syllabus, most of the concepts are covered in `Machine Learning by Stanford University, Andrew Ng`, so I decided to go through the projects. 
+At first, I tended to take this course but after reviewing the syllabus, most of the concepts are covered in `Machine Learning by Stanford University, Andrew Ng`, so I decided to go through the projects. 
 
 # Outline:
 
